@@ -11,7 +11,7 @@ venv.bak/
 __pycache__/
 
 # Vector database
-chrome_langchain_db/
+chroma_langchain_db/
 
 # VS Code files
 .vscode/
